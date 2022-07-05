@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6ad7891048801f038181f1d38af124a87c835cd9",
+    "author": "Daniel Noesgaard <dnoesgaard@gbif.org>",
+    "time": "2022-07-05 17:18:19",
+    "files": 1,
+    "merge": false,
+    "message": "Add instructions for citing GBIF (#7)\n\n* Update CITATION\r\n\r\n* Update CITATION\r\n\r\n* Update CITATION"
+  },
+  "repo": "https://github.com/ropensci/gbifdb",
+  "pkg": "gbifdb"
+}

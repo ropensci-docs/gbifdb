@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.5
+pkgdown_sha: ~
+articles:
+  intro: intro.html
+last_built: 2022-07-05T18:07Z
+urls:
+  reference: https://docs.ropensci.org/gbifdb/reference
+  article: https://docs.ropensci.org/gbifdb/articles
+
