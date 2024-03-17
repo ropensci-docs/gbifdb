@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "35b60fded47c800c26c908b1289e98b6f2edef78",
+    "author": "Carl <cboettig@gmail.com>",
+    "time": "2023-10-19 19:46:25",
+    "files": 1,
+    "merge": false,
+    "message": "cite header no longer supported, expects an actual citation, not a template.\n"
+  },
+  "repo": "https://github.com/ropensci/gbifdb",
+  "pkg": "gbifdb"
+}
