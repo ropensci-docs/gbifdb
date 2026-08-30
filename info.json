@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "12490ac39abc2f859937a2dc2bbfff3f378959ac",
+    "author": "beausoleilmo <beausoleilmo@users.noreply.github.com>",
+    "time": "2025-09-14T18:53:02Z",
+    "files": 5,
+    "merge": false,
+    "message": "updated doc to include licenses in snapshot (#14)\n\n* updated doc to include licenses in snapshot\n\n* updated description and news. Build doc."
+  },
+  "repo": "https://github.com/ropensci/gbifdb",
+  "pkg": "gbifdb",
+  "time": "2026-08-30T07:22:38Z"
+}
